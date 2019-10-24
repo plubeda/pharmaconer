@@ -1,5 +1,4 @@
-
-In this word we describe a new named entity extraction system. 
+In this word SINAI groups describe a new named entity extraction system. 
 
 Our work proposes a system for the identification and annotation of drug names in Spanish biomedical texts based on machine learning and deep learning models. 
 
